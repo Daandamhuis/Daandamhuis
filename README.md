@@ -4,7 +4,9 @@ Currently working at stichd (a PUMA company) as a Business Intelligence Consulta
 
 ---
 
-In my spare time I've started working on [PyTabular](https://github.com/Curts0/PyTabular). My goal for PyTabular is to make it easier to create documentation for Power BI and Analysis Server models based on the meta-data that is already there in the definition. 
+**PyTabular**
+
+In my spare time I've started working on [PyTabular](https://github.com/Curts0/PyTabular). My goal for PyTabular is to make it easier to create documentation for Power BI and Analysis Server models based on the meta-data that is already there in the model definition. 
 
 ---
 
