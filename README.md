@@ -13,6 +13,7 @@ In my spare time I've started working on [PyTabular](https://github.com/Curts0/P
 **How to reach me (📫)**
 
 LinkedIn: http://linkedin.com/in/daandamhuis
+Buy me a coffee: [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/daandamhuis)
 
 <!---
 Daandamhuis/Daandamhuis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
