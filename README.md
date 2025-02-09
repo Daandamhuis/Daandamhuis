@@ -1,20 +1,25 @@
-Hi, I’m @Daandamhuis 👋
-
-Currently working at stichd (a PUMA company) as a Business Intelligence Consultant specializing in all things data in the Microsoft Stack. 
+Here’s your optimized GitHub profile summary incorporating everything:  
 
 ---
 
-**PyTabular**
+### **👋 Hi, I’m @Daandamhuis**  
 
-In my spare time I've started working on [PyTabular](https://github.com/Curts0/PyTabular). My goal for PyTabular is to make it easier to create documentation for Power BI and Analysis Server models based on the meta-data that is already there in the model definition. 
+Currently working at **stichd (a PUMA company)** as the **Manager for the Data & Analytics team**, responsible for the **Solution Architecture** of our Data & Analytics Platform. We specialize in all things **data within the Microsoft Stack** (Azure, Power BI, Synapse, Fabric).  
 
 ---
 
-**How to reach me (📫)**
+### **📊 Data & Analytics Approach**  
+- **stichd → Microsoft Stack** | Azure, Power BI, Synapse, Fabric  
+- **Stichting Verbonden Stilte → Google Stack** | BigQuery, dbt-core, Python, Looker Studio (optimized for the lowest cost)  
 
-LinkedIn: http://linkedin.com/in/daandamhuis
+---
 
-<!---
-Daandamhuis/Daandamhuis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### **🌍 Stichting Verbonden Stilte**  
+A few hours a month, I volunteer as a **Data Analyst** for **Stichting Verbonden Stilte**, supporting **financial data processing and insights**. The focus is on **running as cheaply as possible** so resources go toward helping people.  
+
+---
+
+### **📫 How to reach me**  
+🔗 **LinkedIn:** [linkedin.com/in/daandamhuis](http://linkedin.com/in/daandamhuis)  
+
+🚀 Always looking for ways to **make data work smarter, not costlier.** Let’s connect!  
