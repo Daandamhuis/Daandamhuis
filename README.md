@@ -10,7 +10,7 @@ Currently working at **stichd (a PUMA company)** as the **Manager for the Data &
 
 ### **📊 Data & Analytics Approach**  
 - **stichd → Microsoft Stack** | Azure, Power BI, Synapse, Fabric  
-- **Stichting Verbonden Stilte → Google Stack** | BigQuery, dbt-core, Python, Looker Studio (optimized for the lowest cost)  
+- **Stichting Verbonden Stilte → Google Stack** | BigQuery, dbt-core, Python, Looker Studio (optimized for the lowest cost = 0.53 EUR per month)  
 
 ---
 
