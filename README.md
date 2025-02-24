@@ -1,7 +1,3 @@
-Here’s your optimized GitHub profile summary incorporating everything:  
-
----
-
 ### **👋 Hi, I’m @Daandamhuis**  
 
 Currently working at **stichd (a PUMA company)** as **Manager for the Data & Analytics team**, and responsible for the **Solution Architecture** of our Data & Analytics Platform. We specialize in all things **data within the Microsoft Stack** (Azure, Power BI, Synapse, Fabric).  
